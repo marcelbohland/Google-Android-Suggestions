@@ -25,6 +25,6 @@ Disclaimer: It is not an Official Google API
 5. Implement the project licence into your app
 
 If you find any problems of this project then please contact us at opensearchapp@gmail.com
-If you have any legal claims of this project then please contact us at opensearchapp@gmail.com
+If you have any legal claims of this project then please contact us at opensearchapp@gmail.com,
 
-your OpenSearch Webbrowser Team
+your OpenSearch Webbrowser Team.
