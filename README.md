@@ -1,6 +1,8 @@
 # Google-Android-Suggestions
 Disclaimer: It is not an Official Google API
 
+This API is free to use! Please copy the licence into your project
+
 1. Create a Listview called suggestions
 
 2. Create a Edittext called editText4
@@ -18,4 +20,6 @@ Disclaimer: It is not an Official Google API
         File notizdatei2 = new File(Environment.getExternalStorageDirectory(), "open_serach_data/cache/" + "suggest.txt");
         notizdatei2.delete();
         
-4.         
+4. Implement The API to your activity into onCreate
+
+5. Implement the project licence into your app
