@@ -1,6 +1,13 @@
 # Google-Android-Suggestions
 Disclaimer: It is not an Official Google API
 
+
+
+!The API will be available soon!
+
+
+
+
 !!!! This API is free to use! Please copy the licence into your project !!!!
 
 1. Create a Listview called suggestions
