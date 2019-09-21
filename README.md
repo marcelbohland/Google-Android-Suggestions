@@ -29,9 +29,7 @@ Disclaimer: It is not an Official Google API
         
 4. Implement The API to your activity into onCreate
 
-5. Implement the project licence into your app
-
- Copyright OpenSearch Webbrowser by Marcel Bohland 2019
+5. Implement the project licence into your app (Lizenz-angeben)
 
 If you find any problems of this project then please contact us at opensearchapp@gmail.com
 If you have any legal claims of this project then please contact us at opensearchapp@gmail.com,
