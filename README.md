@@ -1,5 +1,6 @@
 # Google-Android-Suggestions
 Disclaimer: It is not an Official Google API
+
 version: 1.0
 
 !The API will be available soon!
