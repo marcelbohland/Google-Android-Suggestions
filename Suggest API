@@ -28,9 +28,6 @@ EditText editText = (EditText) findViewById(R.id.editText4);
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count) {
 
-                SharedPreferences sharedPrefse = getSharedPreferences("suggests", 0);
-                String punkte257 = (String) sharedPrefse.getString("vale", "");
-                if(punkte257.equals("on")){
                 EditText searchTo = findViewById(R.id.editText4);
                 SharedPreferences pref25 = getSharedPreferences("wertee", 0);
                 String punkte25 = (String) pref25.getString("vale", "");
@@ -115,6 +112,6 @@ EditText editText = (EditText) findViewById(R.id.editText4);
                     SharedPreferences.Editor ed77e = pref77e.edit();
                     ed77e.putString("vale", "1");
                     ed77e.commit();
-            }
+            
             }
         });
