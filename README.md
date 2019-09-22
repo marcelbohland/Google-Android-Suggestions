@@ -22,6 +22,18 @@ version: 1.0
 
 5. Implement the project licence into your app (Lizenz-angeben)
 
+6. Implement this to your Manifest.xml
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    
+7. Implement this to your onCreate
+
+    if (ActivityCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
+            ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 1);
+        }
+
 If you find any problems of this project then please contact us at opensearchapp@gmail.com
 If you have any legal claims of this project then please contact us at opensearchapp@gmail.com,
 
