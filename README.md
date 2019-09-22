@@ -22,11 +22,7 @@ version: 1.0
 
 5. Implement the project licence into your app (Lizenz-angeben)
 
-6. Implement this to your Manifest.xml
-
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+6. Implement uses-permissons to your Manifest.xml
     
 7. Implement this to your onCreate
 
