@@ -1,3 +1,4 @@
+EditText editText = (EditText) findViewById(R.id.editText4);
     editText.setOnKeyListener(new View.OnKeyListener() {
             @Override
             public boolean onKey(View v, int keyCode, KeyEvent event) {
