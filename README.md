@@ -9,7 +9,7 @@ version: 1.0
 
 2. Create a Edittext called editText4
 
-3. Implement this to onCreate
+3. Implement this to your activity into onCreate
 
         SharedPreferences pref77 = getSharedPreferences("wertee", 0);
         SharedPreferences.Editor ed77 = pref77.edit();
@@ -24,7 +24,7 @@ version: 1.0
 
 6. Implement uses-permissons to your Manifest.xml
     
-7. Implement this to your onCreate
+7. Implement this to your activity into onCreate
 
     if (ActivityCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
             ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 1);
