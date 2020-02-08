@@ -18,7 +18,7 @@ version: 1.0
         File notizdatei2 = new File(Environment.getExternalStorageDirectory(), "open_serach_data/cache/" + "suggest.txt");
         notizdatei2.delete();
         
-4. Implement The API to your activity into onCreate
+4. Implement The API to your activity into onCreate (Version 1.0 or 1.1)
 
 5. Implement the project licence into your app (Lizenz-angeben)
 
