@@ -1,7 +1,7 @@
 # Google-Android-Suggestions
 Disclaimer: It is not an Official Google API
 
-version: 1.0
+version: 1.1
 
 !!!! This API is free to use! Please copy the licence into your project !!!!
 
