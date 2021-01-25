@@ -4,9 +4,25 @@ Disclaimer: It is not an Official Google API
 # You can only use this project until Android 10. There will be an update soon
 
 
-version: 1.1
+Version: 2
 
 !!!! This API is free to use! Please copy the licence into your project !!!!
+
+# Version 2.0
+
+1. Create a Listview called suggestions
+
+2. Create a Edittext called editText4
+
+3. Implement the HttpHandler.java to your project
+        
+4. Implement The API to your activity into onCreate (Version 2.0)
+
+5. Implement the project licence into your app (Lizenz-angeben)
+
+6. Implement uses-permissons to your Manifest.xml    
+
+# Version 1.0 - 1-1 (outdated)
 
 1. Create a Listview called suggestions
 
@@ -37,3 +53,11 @@ If you find any problems of this project then please contact us at opensearchapp
 If you have any legal claims of this project then please contact us at opensearchapp@gmail.com,
 
 your OpenSearch Webbrowser Team.
+
+# License
+Copyright 2019 Marcel Bohland
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
