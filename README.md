@@ -1,10 +1,8 @@
 # Google-Android-Suggestions
 Disclaimer: It is not an Official Google API
 
-# You can only use this project until Android 10. There will be an update soon
 
-
-Version: 2
+Current version: 2.0
 
 !!!! This API is free to use! Please copy the licence into your project !!!!
 
