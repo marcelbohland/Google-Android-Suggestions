@@ -53,7 +53,7 @@ If you have any legal claims of this project then please contact us at opensearc
 your OpenSearch Webbrowser Team.
 
 # License
-Copyright 2019 Marcel Bohland
+Copyright 2021 Marcel Bohland
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
