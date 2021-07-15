@@ -3,8 +3,6 @@
 [![current version](https://img.shields.io/badge/current%20version-2.0.0-blue.svg)](https://github.com/marcelbohland/Google-Android-Suggestions/releases/tag/2.0.0)
 [![license](https://img.shields.io/badge/license-Apache%20License%202.0-red.svg)](https://github.com/marcelbohland/Google-Android-Suggestions/blob/master/LICENSE)
 
-Disclaimer: It is not an Official Google API
-
 
 Current version: 2.0
 
